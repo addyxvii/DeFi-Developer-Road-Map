@@ -4,11 +4,9 @@
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base) [![Checked by - Immunefi](https://img.shields.io/static/v1?label=Checked+by&message=Immunefi&color=FF33DA&logo=https%3A%2F%2Fibb.co%2FXJGmndf&logoColor=Black)](https://immunefi.com)
-       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
-
-
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
+[![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base) [![Checked by - Immunefi](https://img.shields.io/static/v1?label=Checked+by&message=Immunefi&color=FF33DA&logo=https%3A%2F%2Fibb.co%2FXJGmndf&logoColor=Black)](https://immunefi.com)
+[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 <details>
 <summary>Translations</summary>
@@ -16,9 +14,8 @@
 
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-  
-</details>
 
+</details>
 
 ## Roadmap
 
@@ -26,28 +23,26 @@
 
 # Navigation
 
-|       Topic      | Instant Link                                                                                                              |
-|:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Basics           | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
-| dApps            | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-| Frameworks       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-| zk-snarks        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
+|      Topic       | Instant Link                                                                                                              |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
+|      Basics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
+|      dApps       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+|    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+|    zk-snarks     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-| Security         | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-| DeFi             | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-| ENS              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-| NFT              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-| Stable Coins     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-| General Info     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-| Side Chains      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-| MEV              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
+|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
+|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
+|       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
+|       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
+|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
+|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
+|   Side Chains    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
+|       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
 | Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-| ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-| Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-
+|     ETH 2.0      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
+|    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
 
 # Basics:
-
 
 - Learn the basics of Distributed Ledger Technology (DLT)
 - Bitcoin protocol [Explained](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
@@ -65,12 +60,11 @@
 
 #### Smart Contract
 
-
 - Basics of Smart Contract
 - Life Cycle of Smart Contract
 - Ethereum Higher Level languages (**Solidity**, Vyper, LLL, Serpent)
 - Compiling, testing, Deploying smart Contracts
-- Interacting with smart contracts using web3.js or web3.py
+- Interacting with smart contracts using web3.js, web3.py, or ethers.js
 - Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
@@ -96,9 +90,7 @@
 - [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - A standard interface for a simple proxy account.
 - [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts.
 
-
 #### General Development Skills
-
 
 - Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
@@ -118,7 +110,6 @@
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
-
 # dApps
 
 - Get familiar with tools that you will be using:
@@ -137,18 +128,17 @@
 - [Truffle](https://truffleframework.com/)
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
 - [Vyper](https://github.com/ethereum/vyper)
-- [Atom](https://atom.io/) 
+- [Atom](https://atom.io/)
 - [Etheratom](https://atom.io/packages/etheratom)
 - [Autocomplete Solidity](https://atom.io/packages/autocomplete-solidity)
-- [Language Solidity](https://atom.io/packages/language-solidity) 
-- [Vim solidity](https://github.com/tomlion/vim-solidity) 
-- [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) 
+- [Language Solidity](https://atom.io/packages/language-solidity)
+- [Vim solidity](https://github.com/tomlion/vim-solidity)
+- [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide)
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 
+#### Practice
 
- #### Practice
-
-- Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) 
+- Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/)
 - Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
 - [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 - [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
@@ -159,8 +149,6 @@
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 - [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - A compilation of the worst patterns.
 - [ETH.build](https://eth.build/) An Educational Sandbox For Web3
-
-
 
 # ZK-SNARKs
 
@@ -176,16 +164,16 @@
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
 
 #### ZK-STARKs
+
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
 
 # Frameworks
 
-#### Truffle Suit 
+#### Truffle Suite
 
 - [Truffle](https://truffleframework.com/truffle)
 - [Ganache](https://truffleframework.com/ganache)
 - [Drizzle](https://truffleframework.com/drizzle)
-
 
 #### ZeppelinOS
 
@@ -195,7 +183,6 @@
 
 - [Labs.superblocks](https://lab.superblocks.com/)
 - [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
-
 
 #### Infura (A Gateway to Ethereum)
 
@@ -219,7 +206,7 @@
 - [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
 - [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 - [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-- [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
+- [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
 
 #### Interacting with Smart Contract
@@ -227,6 +214,7 @@
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
+- [Ethers.js](https://docs.ethers.io/v5/)
 
 #### Python Ethereum Eco System
 
@@ -269,8 +257,7 @@
 - [Universal faucet](https://faucets.blockxlabs.com/)
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 
-
-# Front End 
+# Front End
 
 #### UI Components
 
@@ -294,9 +281,9 @@
 #### Inspired by:
 
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
-- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
-- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
-- [ADF](https://github.com/ong/awesome-decentralized-finance) 
+- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools)
+- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path)
+- [ADF](https://github.com/ong/awesome-decentralized-finance)
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 - [BlockTools](https://github.com/nujabes403/blockchains-tools)
 - [SAW List](https://simpleaswater.com/defi/#analytics)
@@ -325,16 +312,15 @@
 - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
 - [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
 
-
 #### Security & Safety:
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
-- [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/pdf/2105.07501.pdf) -  In this paper, authors design a novel bribery attack and show that this guarantee can be hugely undermined.
+- [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/pdf/2105.07501.pdf) - In this paper, authors design a novel bribery attack and show that this guarantee can be hugely undermined.
 
-- [Vulnerability of Blockchain Technologies to Quantum Attacks](https://arxiv.org/pdf/2105.01815.pdf) - Here authors analyze the major blockchain-based cryptocurrencies deployed today -- including Bitcoin, Ethereum, Litecoin and ZCash, and determine risk exposure to quantum attacks. 
+- [Vulnerability of Blockchain Technologies to Quantum Attacks](https://arxiv.org/pdf/2105.01815.pdf) - Here authors analyze the major blockchain-based cryptocurrencies deployed today -- including Bitcoin, Ethereum, Litecoin and ZCash, and determine risk exposure to quantum attacks.
 
-- [BLOCKEYE](https://arxiv.org/pdf/2103.02873.pdf) - Hunting For DeFi Attacks on Blockchain. In this paper, authors proposed BLOCKEYE, a real-time attack detection system for DeFi projects on the Ethereum blockchain. 
+- [BLOCKEYE](https://arxiv.org/pdf/2103.02873.pdf) - Hunting For DeFi Attacks on Blockchain. In this paper, authors proposed BLOCKEYE, a real-time attack detection system for DeFi projects on the Ethereum blockchain.
 
 - [Topological Anomaly Detection in Dynamic Multilayer Blockchain Networks](https://arxiv.org/pdf/2106.01806.pdf) - Authors introduce a new topological perspective to structural anomaly detection in dynamic multilayer networks.
 
@@ -346,29 +332,29 @@
 
 - [Requirement Analyses and Evaluations of Blockchain Platforms per Possible Use Cases](https://arxiv.org/pdf/2103.03209.pdf) - This document provides a generic model of understanding blockchain and its applications.
 
-- [A Note on Privacy in Constant Function Market Makers](https://arxiv.org/pdf/2103.01193.pdf) -  In this note, authors show that privacy is impossible with the usual implementations of CFMMs under most reasonable models of an adversary and provide some mitigating strategies.
+- [A Note on Privacy in Constant Function Market Makers](https://arxiv.org/pdf/2103.01193.pdf) - In this note, authors show that privacy is impossible with the usual implementations of CFMMs under most reasonable models of an adversary and provide some mitigating strategies.
 
-- [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) -  This paper explains eight vulnerabilities that are specific to the application level of BT by analyzing the exploitation case scenarios of these vulnerabilities.
+- [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) - This paper explains eight vulnerabilities that are specific to the application level of BT by analyzing the exploitation case scenarios of these vulnerabilities.
 
-- [An approach to detect Denial of Service Vulnerability in Ethereum Smart Contracts](https://arxiv.org/pdf/2106.01340.pdf) -  In this paper, authors propose a framework that combines static and dynamic analysis to detect DoS due to an unexpected revert in ETH Smart Contracts.
+- [An approach to detect Denial of Service Vulnerability in Ethereum Smart Contracts](https://arxiv.org/pdf/2106.01340.pdf) - In this paper, authors propose a framework that combines static and dynamic analysis to detect DoS due to an unexpected revert in ETH Smart Contracts.
 
 - [AGSolT: a Tool for Automated Test-Case Generation for Solidity Smart Contracts](https://arxiv.org/pdf/2102.08864.pdf) - Authors found that AGSolT is capable of achieving high branch overage with both approaches and even discovered some errors in some of the most popular Solidity smart contracts on Github.
 
 - [Temporal-Amount Snapshot MultiGraph for Ethereum Transaction Tracking](https://arxiv.org/pdf/2102.08013.pdf) - Authors propose TASMG to model Ethereum transaction records as a temporal-amount network and then present TAW to effectively embed accounts via their transaction records, which integrates temporal and amount information of the proposed network.
 
-- [Demystifying Cryptocurrency Mining Attacks: A Semi-supervised Learning Approach Based on Digital Forensics and Dynamic Network Characteristics](https://arxiv.org/pdf/2102.10634.pdf) - This paper addresses the detection of crypto mining attacks in a generic network environment using dynamic network characteristics. 
+- [Demystifying Cryptocurrency Mining Attacks: A Semi-supervised Learning Approach Based on Digital Forensics and Dynamic Network Characteristics](https://arxiv.org/pdf/2102.10634.pdf) - This paper addresses the detection of crypto mining attacks in a generic network environment using dynamic network characteristics.
 
 - [FASTEN: Fair and Secure Distributed Voting Using Smart Contracts](https://arxiv.org/pdf/2102.10594.pdf) - Authors prove that the probability of privacy breaches is negligibly small. Further, cost analysis of executing FASTEN over Ethereum is comparable to most of the existing cost of elections.
 
 - [Interdependencies between Mining Costs, Mining Rewards and Blockchain Security](https://arxiv.org/pdf/2102.08107.pdf) - This paper studies to what extent the cost of operating a proof-of-work blockchain is intrinsically linked to the cost of preventing attacks, and to what extent the underlying digital ledger security budgets are correlated with the cryptocurrency market outcomes
 
-- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf) - HyperSec, a visual analytics monitoring tool that provides relevant information at a glance to detect ongoing attacks on Hyperledger Fabric. 
+- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf) - HyperSec, a visual analytics monitoring tool that provides relevant information at a glance to detect ongoing attacks on Hyperledger Fabric.
 
 - [Reentrancy Vulnerability Identification in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.02881.pdf) - In this paper, authors present a framework that combines static and dynamic analysis to detect Reentrancy vulnerabilities in Ethereum smart contracts.
 
 - [A General Framework for the Security Analysis of Blockchain Protocols](https://arxiv.org/pdf/2009.09480v2.pdf) - This paper presents a parsimonious abstraction sufficient for capturing and comparing properties of many well-known permissionless blockchain protocols.
 
-- [Coinbugs: Enumerating Common Blockchain Implementation-Level Vulnerabilities](https://arxiv.org/pdf/2104.06540.pdf) -  The paper is aimed at security testers aiming to start out in blockchain security reviews and blockchain developers as a reference on common pitfalls.
+- [Coinbugs: Enumerating Common Blockchain Implementation-Level Vulnerabilities](https://arxiv.org/pdf/2104.06540.pdf) - The paper is aimed at security testers aiming to start out in blockchain security reviews and blockchain developers as a reference on common pitfalls.
 
 - [Vulnerabilities and Open Issues of Smart Contracts: A Systematic Mapping](https://arxiv.org/pdf/2104.12295.pdf) - This paper conducted a systematic literature mapping identifying initiatives and tools to analyze SCs and how to deal with the identified vulnerabilities.
 
@@ -378,37 +364,37 @@
 
 - [An Anonymous Trust-Marking Scheme on Blockchain Systems](https://arxiv.org/pdf/2010.00206.pdf) - In this paper, authors propose an anonymous trust-marking scheme on blockchain systems that is universally applicable to any cryptocurrency.
 
-- [A Framework and DataSet for Bugs in Ethereum Smart Contracts](https://arxiv.org/pdf/2009.02066.pdf) -  In this paper, to fill the gap, authors first collect as many smart contract bugs as possible from multiple sources and divide these bugs into 9 categories by extending the IEEE Standard Classification for Software Anomalies.
+- [A Framework and DataSet for Bugs in Ethereum Smart Contracts](https://arxiv.org/pdf/2009.02066.pdf) - In this paper, to fill the gap, authors first collect as many smart contract bugs as possible from multiple sources and divide these bugs into 9 categories by extending the IEEE Standard Classification for Software Anomalies.
 
 - [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
 
-- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain. 
+- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain.
 
-- [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure. 
+- [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure.
 
 - [Trustless, privacy-preserving blockchain bridges](https://arxiv.org/pdf/2102.04660.pdf) - In this paper, authors present a protocol for facilitating trust-less cross-chain cryptocurrency transfers that preserve privacy of bridge withdrawals.
 
 - [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf) - Authors cover the phases of design, coding, and testing and deployment of the software lifecycle.
 
-- [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://arxiv.org/pdf/2102.07420.pdf) - In this work authors propose Dynamit, a monitoring framework to detect reentrancy vulnerabilities in Ethereum smart contracts. 
+- [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://arxiv.org/pdf/2102.07420.pdf) - In this work authors propose Dynamit, a monitoring framework to detect reentrancy vulnerabilities in Ethereum smart contracts.
 
 - [Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.00132.pdf) - In this work, authors explore the possibility and existence of new social engineering attacks beyond smart contract honeypots.
 
 - [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/pdf/2102.04875.pdf) - In this paper, authors develop a concurrent miner that proposes a block by executing the AUs concurrently using optimistic Software Transactional Memory systems (STMs).
 
-- [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663.pdf) - Experimental results show that DefectChecker performs much better than these tools in terms of both speed and accuracy. 
+- [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663.pdf) - Experimental results show that DefectChecker performs much better than these tools in terms of both speed and accuracy.
 
 - [SmartBugs: A Framework to Analyze Solidity Smart Contracts](https://arxiv.org/pdf/2007.04771.pdf) - Authors show how it enables easy integration and comparison of analysis tools by presenting a new extension to the tool SmartCheck that improves substantially the detection of vulnerabilities related to the DASP10 categories Bad Randomness, Time Manipulation, and Access Control (identified vulnerabilities increased from 11% to 24%).
 
-- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf) -  In this paper, authors identify a set of 19 Solidity code smells affecting the deployment and transaction costs of a smart contract, and assess the relevance of such smells through a survey involving 34 participants. 
+- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf) - In this paper, authors identify a set of 19 Solidity code smells affecting the deployment and transaction costs of a smart contract, and assess the relevance of such smells through a survey involving 34 participants.
 
-- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf) -  In this paper, authors consider the design of provably secure parallel-chain protocols which can adapt to such mining power variations. 
+- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf) - In this paper, authors consider the design of provably secure parallel-chain protocols which can adapt to such mining power variations.
 
 - [Ethereum SmartContract Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT framework enables transfer learning on new vulnerability types with minimal modification of the DNN model architecture and re-training overhead.
 
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
 
-- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs. 
+- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs.
 
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
@@ -418,42 +404,41 @@
 
 #### DeFI
 
-
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
 - [Transaction Fee Mechanism Design](https://arxiv.org/pdf/2106.01340.pdf) - Authors explain the behavior of fees in blockchains.
 
 - [DeFi-ning DeFi: Challenges & Pathway](https://arxiv.org/pdf/2101.05589.pdf) - Good Retrospective into the beginning of decentralized finance.
 
-- [A theory of Automated Market Makers in DeFi](https://arxiv.org/pdf/2102.11350.pdf) -  Authors exploit our theory to formally prove a set of fundamental properties of AMMs, characterizing both structural and economic aspects. 
+- [A theory of Automated Market Makers in DeFi](https://arxiv.org/pdf/2102.11350.pdf) - Authors exploit our theory to formally prove a set of fundamental properties of AMMs, characterizing both structural and economic aspects.
 
-- [From banks to DeFi: the evolution of the lending market](https://arxiv.org/pdf/2104.00970.pdf) -  Authors discuss the persisting reliance of DeFi lending on the traditional financial system, and conclude with the outlook of the lending market in the IOV era.
+- [From banks to DeFi: the evolution of the lending market](https://arxiv.org/pdf/2104.00970.pdf) - Authors discuss the persisting reliance of DeFi lending on the traditional financial system, and conclude with the outlook of the lending market in the IOV era.
 
 - [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf) -In this paper, authors investigate two methods that allow them to automatically create profitable DeFi trades.
 
-- [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/pdf/2106.01870.pdf) -  In this paper authors formally characterize rational miners as players which follow an optimal strategy in the mining game. 
+- [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/pdf/2106.01870.pdf) - In this paper authors formally characterize rational miners as players which follow an optimal strategy in the mining game.
 
-- [The Decentralized Financial Crisis](https://arxiv.org/pdf/2002.08099.pdf) -  In this paper authors explore how design weaknesses and price fluctuations in DeFi protocols could lead to a DeFi crisis.
+- [The Decentralized Financial Crisis](https://arxiv.org/pdf/2002.08099.pdf) - In this paper authors explore how design weaknesses and price fluctuations in DeFi protocols could lead to a DeFi crisis.
 
 - [Liquidations: DeFi on a Knife-edge](https://arxiv.org/pdf/2009.13235v4.pdf)- In order to protect protocols from suffering losses, undercollateralized positions can be liquidated. In this paper, authors present empirical analysis of liquidations on protocols for loanable funds (PLFs).
 
-- [Measuring Asset Composability as a Proxy for DeFi Integration](https://arxiv.org/pdf/2102.04227.pdf) -  Authors seek to understand the degree to which this practice may contribute to financial integration on Ethereum by examining transactions in 'composed' derivatives for the assets DAI, USDC, USDT, ETH and tokenized BTC for the full set of 344.8 million Ethereum transactions computed in 2020. 
+- [Measuring Asset Composability as a Proxy for DeFi Integration](https://arxiv.org/pdf/2102.04227.pdf) - Authors seek to understand the degree to which this practice may contribute to financial integration on Ethereum by examining transactions in 'composed' derivatives for the assets DAI, USDC, USDT, ETH and tokenized BTC for the full set of 344.8 million Ethereum transactions computed in 2020.
 
-- [Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges](https://arxiv.org/pdf/2101.02778.pdf) -  Authors propose in this work a new approach to constructing the AMM by proposing the idea of dynamic curves.
+- [Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges](https://arxiv.org/pdf/2101.02778.pdf) - Authors propose in this work a new approach to constructing the AMM by proposing the idea of dynamic curves.
 
 - [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf) - In this work authors formalize, analytically exposit and empirically evaluate an augmented variant of front-running: sandwich attacks, which involve front- and back-running victim TXs.
 
 - [Flashot](https://arxiv.org/pdf/2102.00626.pdf) - A Snapshot of Flash Loan Attack on DeFi Ecosystem.
 
-- [DeFiRanger](https://arxiv.org/pdf/2104.15068.pdf) -  Detecting Price Manipulation Attacks on DeFi Applications.
+- [DeFiRanger](https://arxiv.org/pdf/2104.15068.pdf) - Detecting Price Manipulation Attacks on DeFi Applications.
 
 - [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/pdf/2003.03810.pdf) - Flash Loans. DeFi. Classic.
 
 - [SoK: Decentralized Finance (DeFi) ](https://arxiv.org/pdf/2101.08778.pdf) - In this Systematization of Knowledge (SoK), authors delineate the DeFi ecosystem along its principal axes. SCSGuard: Deep Scam Detection for Ethereum Smart Contracts
 
-- [Empirical Evidence from four Governance Token Distributions](https://arxiv.org/pdf/2102.10096.pdf) -  This paper provides a framework to quantify decentralization of governance power among blockchain applications.
+- [Empirical Evidence from four Governance Token Distributions](https://arxiv.org/pdf/2102.10096.pdf) - This paper provides a framework to quantify decentralization of governance power among blockchain applications.
 
-- [The Adoption of Blockchain-based Decentralized Exchanges](https://arxiv.org/pdf/2103.08842.pdf) -  Authors show that liquidity providers lose token value if exchange rates are volatile due to the order execution mechanism of the blockchain-based exchange.
+- [The Adoption of Blockchain-based Decentralized Exchanges](https://arxiv.org/pdf/2103.08842.pdf) - Authors show that liquidity providers lose token value if exchange rates are volatile due to the order execution mechanism of the blockchain-based exchange.
 
 - [An analysis of Uniswap markets](https://arxiv.org/pdf/1911.03380.pdf) -One of the best studies on Uniswap DEX activity, authors started researching in 2019 and recently released fresh 2021 analysis.
 
@@ -467,15 +452,13 @@
 
 - [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) - This paper proposes a mathematical model for AMM composition.
 
-- [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349) - In this paper, authors will study and analyze blockchain oracles with regard to how they provide feedback to the blockchain and smart contracts. 
+- [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349) - In this paper, authors will study and analyze blockchain oracles with regard to how they provide feedback to the blockchain and smart contracts.
 
 - [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
-
 
 #### Ethereum Name Service
 
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
-
 
 #### Non-Fungible Token (NFT):
 
@@ -493,27 +476,23 @@
 
 - [NonFungible Tracker](https://nonfungible.com/) - NFT tracker.
 
-- [NFTS TOP]( https://cryptoslam.io) - NFT Ranking.
-
+- [NFTS TOP](https://cryptoslam.io) - NFT Ranking.
 
 #### Stable-Coins:
 
-
 - [Stablecoins 2.0](https://arxiv.org/pdf/2006.12388.pdf) - Authors seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins.
 
-- [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) -  Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
+- [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) - Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
 
-- [Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis](https://arxiv.org/pdf/2101.08423.pdf) - Authors performed a systematic empirical analysis on real transaction activities of the Basis Cash stablecoin to relate theoretical possibilities to market observations. 
+- [Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis](https://arxiv.org/pdf/2101.08423.pdf) - Authors performed a systematic empirical analysis on real transaction activities of the Basis Cash stablecoin to relate theoretical possibilities to market observations.
 
-- [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
-
+- [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) - In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 
 #### General information:
 
-
 - [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) - An analysis of the crypto prices and search trends suggests the existence of big players (and not the regular users), manipulating the market after a drop in prices.
 
-- [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf) -  In this paper, authors propose an atomic, scalable and privacy-preserving protocol that enables secure and dynamic updates. Then develop a smart contract-based Credit-Note System (CNS) that allows participants to lock funds before a state channel initialisation, which enhances flexibility and efficiency.
+- [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf) - In this paper, authors propose an atomic, scalable and privacy-preserving protocol that enables secure and dynamic updates. Then develop a smart contract-based Credit-Note System (CNS) that allows participants to lock funds before a state channel initialisation, which enhances flexibility and efficiency.
 
 - [Exploring Etherum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
 
@@ -529,26 +508,25 @@
 
 - [Ethna: Analyzing the Underlying Peer-to-Peer Network of the Ethereum Blockchain](https://arxiv.org/pdf/2010.01373.pdf) - Ethna implements a novel method that accurately measures the degrees of Ethereum nodes.
 
-- [Community Detection in Blockchain Social Networks](https://arxiv.org/pdf/2101.06406.pdf) -  A novel community detection algorithm which is designed for low-rank signals on graph can help find users’ communities based on user-token subscription.
+- [Community Detection in Blockchain Social Networks](https://arxiv.org/pdf/2101.06406.pdf) - A novel community detection algorithm which is designed for low-rank signals on graph can help find users’ communities based on user-token subscription.
 
-- [Block Access Control in Wireless Blockchain Network: Design, Modeling and Analysis](https://arxiv.org/pdf/2104.13144.pdf) -  The results show that BAC approaches can help the network to achieve a high transaction throughput while improving block utilization and saving computational power. Meanwhile, the trade-off between transaction throughput and block utilization is demonstrated, which can act as a guidance for practical deployment of blockchain.
+- [Block Access Control in Wireless Blockchain Network: Design, Modeling and Analysis](https://arxiv.org/pdf/2104.13144.pdf) - The results show that BAC approaches can help the network to achieve a high transaction throughput while improving block utilization and saving computational power. Meanwhile, the trade-off between transaction throughput and block utilization is demonstrated, which can act as a guidance for practical deployment of blockchain.
 
 - [Towards External Calls for Blockchain and Distributed Ledger Technology](https://arxiv.org/pdf/2105.10399.pdf) - In this paper authors show that this belief is preconceived by demonstrating a method that enables blockchain and distributed ledger technologies to perform calls to external systems initiated from the blockchain/DLT itself.
 
 - [Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations](https://arxiv.org/pdf/2105.02118.pdf) - Authors demonstrate the applicability of the proposed blockchain configuration process model on four blockchain projects
 
-- [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
+- [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) - Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
 
 - [Reward Mechanism for Blockchains Using Evolutionary Game Theory](https://arxiv.org/pdf/2104.05849.pdf) - In this paper, authors develop a reward mechanism framework that could apply to many PoS blockchains.
 
-- [Summing Up Smart Transitions](https://arxiv.org/pdf/2105.07663.pdf) - In this paper, authors present a generalization of first-order logic which can express the unbounded sum of balances. 
+- [Summing Up Smart Transitions](https://arxiv.org/pdf/2105.07663.pdf) - In this paper, authors present a generalization of first-order logic which can express the unbounded sum of balances.
 
-- [100+ Metrics for Software Startups - A Multi-Vocal Literature Review](https://arxiv.org/pdf/1901.04819.pdf) -  Using data in the form of metrics can help software startups to make the right decisions amidst uncertainty and limited resources. 
+- [100+ Metrics for Software Startups - A Multi-Vocal Literature Review](https://arxiv.org/pdf/1901.04819.pdf) - Using data in the form of metrics can help software startups to make the right decisions amidst uncertainty and limited resources.
 
 - [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
 
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
-
 
 #### Side-Chains
 
@@ -559,7 +537,6 @@
 - [Loom Network](https://github.com/loomnetwork)
 - [Matic Network](https://docs.matic.network/)
 
-
 #### EIP - 1559
 
 - [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
@@ -568,20 +545,16 @@
 
 - [Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559](https://arxiv.org/pdf/2012.00854.pdf) - This report assesses the game-theoretic strengths and weaknesses of the proposal and explores some alternative designs.
 
-
 #### Ethereum 2.0
-
 
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
 - [Ethereum 2.0 Stats](https://eth2stats.io/)
 - [Ethereum 2.0 Docs](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
-- [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
-
+- [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
 #### MEV - Maximal Extractable Value / Miner Extractable Value:
-
 
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
 
@@ -591,54 +564,49 @@
 
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
-
 #### Discucssion
 
-- [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
+- [SmartContractResearch Forum](https://www.smartcontractresearch.org)
 
-
- #### Hack Incident Reporting
+#### Hack Incident Reporting
 
 - [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
-
 # Tools Collection
-
 
 #### Ethereum Tools
 
 - [Ethstats](https://ethstats.io)
-- [ETH Forks](https://forkmon.ethdevops.io) 
+- [ETH Forks](https://forkmon.ethdevops.io)
 - [Node Stats](https://ethernodes.org)
 - [EVM Networks List](https://chainid.network)
 - [BIP39 Derivation](https://iancoleman.io/bip39)
-- [Vanity Generator](https://github.com/johguse/profanity) 
-- [Web Vanity Generator](https://vanity-eth.tk) 
+- [Vanity Generator](https://github.com/johguse/profanity)
+- [Web Vanity Generator](https://vanity-eth.tk)
 - [Vanity Eth Generators](https://github.com/search?q=eth+vanity)
-- [FindETH](https://findeth.io) 
+- [FindETH](https://findeth.io)
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas)
-- [Ethereum TxPool Statistics](https://txpool.zengo.com/) 
+- [Ethereum TxPool Statistics](https://txpool.zengo.com/)
 - [Gas Prices Dashboard ](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
 - [The UI from ABI](https://ethcontract.watch)
 - [Oracles Club](https://oracles.club)
 - [Tx Combo](https://furucombo.app)
 - [ETH or ERC-20 Mass-sender](https://disperse.app)
 - [BulkSender](https://bulksender.app)
-- [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
+- [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
-- [Fees WTF Calculator](https://fees.wtf) 
-- [Spend Gas Stats](https://txn.finance) 
-- [Pools Stats](https://pools.fyi) 
-- [Solhint](https://github.com/protofire/solhint) 
+- [Fees WTF Calculator](https://fees.wtf)
+- [Spend Gas Stats](https://txn.finance)
+- [Pools Stats](https://pools.fyi)
+- [Solhint](https://github.com/protofire/solhint)
 - [Solium](https://github.com/duaraghav8/Solium)
-- [Sol-tester](https://github.com/androlo/sol-tester) 
-- [Solidity-coverage](https://github.com/sc-forks/solidity-coverage) 
-- [TypeChain](https://github.com/ethereum-ts/TypeChain) 
-
+- [Sol-tester](https://github.com/androlo/sol-tester)
+- [Solidity-coverage](https://github.com/sc-forks/solidity-coverage)
+- [TypeChain](https://github.com/ethereum-ts/TypeChain)
 
 #### Libraries
 
@@ -672,16 +640,15 @@
 - [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
-   
 
 #### Upgradeability
+
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
 - [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
 - [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 - [OpenZeppelin on Proxy Libraries](https://blog.openzeppelin.com/proxy-libraries-in-solidity-79fbe4b970fd/)
 
-
-#### Developer Tools 
+#### Developer Tools
 
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
@@ -704,14 +671,13 @@
 
 #### Frontend Ethereum APIs
 
-
 - [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
 - [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
 - [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
 - [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
 - [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
 - [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-- [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections. 
+- [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections.
 - [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
 - [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
 - [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
@@ -732,7 +698,7 @@
 - [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
 - [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
-- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
+- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts.
 - [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 
 #### Backend Ethereum APIs
@@ -749,7 +715,7 @@
 - [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
 - [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 - [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
-- [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang. 
+- [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.
 - [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 - [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 - [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
@@ -777,7 +743,6 @@
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
 
-
 #### Storage
 
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
@@ -796,7 +761,7 @@
 - [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
 - [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
 - [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
-- [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
+- [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA)
 - [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
 - [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 - [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
@@ -808,7 +773,7 @@
 - [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 - [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 - [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
-- [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches. 
+- [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 
 #### Ethereum ABI (Application Binary Interface) tools
@@ -822,7 +787,6 @@
 - [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
 - [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 - [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
-
 
 # Testing Tools
 
@@ -848,15 +812,14 @@
 - [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 - [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 
-
 #### Transaction Visualization, Scoring & Tracking:
 
-- [C-Hound](http://c-hound.ai) 
-- [BlockPath](http://blockpath.com) 
-- [Maltego](http://maltego.com) 
-- [GraphSense](http://graphsense.info) 
-- [AML Bot](https://amlbot.com) 
-- [Bank Verified](https://bitrankverified.com/home) 
+- [C-Hound](http://c-hound.ai)
+- [BlockPath](http://blockpath.com)
+- [Maltego](http://maltego.com)
+- [GraphSense](http://graphsense.info)
+- [AML Bot](https://amlbot.com)
+- [Bank Verified](https://bitrankverified.com/home)
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Blockscout](https://github.com/blockscout/blockscout)
@@ -877,8 +840,6 @@
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 - [GLP](https://glprotocol.com/)
 
-
-
 ## Support Project:
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
@@ -889,6 +850,4 @@ If you want to support my work, you can send me a donation to the address:
 
 ##
 
-
 (👍 ͡❛ ͜ʖ ͡❛)👍
-
